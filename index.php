@@ -75,6 +75,19 @@
         </nav> 
         <!-- Bootstrap core JavaScript ============================================ -->
         <!-- Placed at the end of the document so the pages load faster -->
+        <!-- Main jumbotron for a primary marketing message or call to action -->
+        <div class="jumbotron">
+            <div class="container">
+                <h1>Bonjour et bienvenue sur mon portfolio !</h1>
+                <p>
+                    <img id="maPhoto" class="pull-left img-rounded" style="margin: 20px; border: 2px solid black;" src="css/images/AmeliaPilou.jpg" alt="Ma photo d'identité" /> Je m'appelle Amélia Pilou, j'ai 21 ans
+                    et ce site a pour vocation de me présenter en tant que personne, en tant qu'étudiante et candidate à l'obtention du BTS SIO (Services Informatiques
+                    aux Organisations) et en tant que future professionnelle de l'informatique.
+                </p>
+                <p><a class="btn btn-primary btn-lg" href="#" role="button">En savoir plus &raquo;</a></p>
+            </div>
+        </div>
+        
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
         </script>
         <script src="js/bootstrap.min.js"></script>
