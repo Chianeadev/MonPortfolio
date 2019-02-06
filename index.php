@@ -10,6 +10,7 @@
         <title>Portfolio d'Amélia Pilou (BTS SIO 2016)</title>
         <link href="css/bootstrap.min.css" rel="stylesheet" />
         <link href="css/custom.css" rel="stylesheet" />
+        <link href="css/cv.css" rel="stylesheet" /> 
     </head>
     <body>
         <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -85,7 +86,8 @@
                     et ce site a pour vocation de me présenter en tant que personne, en tant qu'étudiante et candidate à l'obtention du BTS SIO (Services Informatiques
                     aux Organisations) et en tant que future professionnelle de l'informatique.
                 </p>
-                <p><a class="btn btn-primary btn-lg" href="#" role="button">En savoir plus &raquo;</a></p>
+                <p><a class="btn btn-primary btn-lg" href="cv.php" role="button">En savoir plus &raquo;</a></p>
+                
             </div>
         </div>
         <footer>
